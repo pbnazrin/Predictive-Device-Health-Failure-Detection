@@ -6,5 +6,4 @@ seaborn
 jupyter
 joblib
 shap
-fastapi
-uvicorn
+
